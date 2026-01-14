@@ -1,2 +1,7 @@
 # Backend-Journey
-This my backend journey and my learning
+Building Daily, learning by doing.
+
+Day 1 backend setup:
+    Built simple get method and routing
+    Struggled with server refresh I accidently
+        opened two port that was the my mistake
